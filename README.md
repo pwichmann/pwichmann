@@ -2,7 +2,7 @@
 
 I'm Pascal. 
 
-- Visit my personal page [here](https://pwichmann.github.io/).
+- Visit my personal page [here](https://pwichmann.github.io/) (<-- working on this one as you read this).
 - Find my interactive book on Deep Learning with Vector Graphics from 2021 [here](https://pwichmann.github.io/deep-learning-with-vector-graphics-book/)
 
 <!--

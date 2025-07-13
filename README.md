@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Pascal. 
+Visit my personal page [here](https://pwichmann.github.io/).
+
 <!--
 **pwichmann/pwichmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
